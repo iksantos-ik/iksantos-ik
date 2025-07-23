@@ -1,8 +1,12 @@
 # Eu sou Ilana Santos, tenho 31 anos! :)
 
-Engenheira Ambiental com mestrado em Gestão de Recursos Hídricos e sólida atuação em projetos ambientais, licenciamento e indicadores de sustentabilidade. Desde 2024, estou em transição de carreira para a área de tecnologia, com foco em **desenvolvimento de software full stack**.
+Sou Engenheira Ambiental, com mestrado em Gestão de Recursos Hídricos e sólida experiência em licenciamento, gestão de projetos e indicadores de sustentabilidade. Em 2024, iniciei minha transição de carreira para a área de tecnologia, com foco em desenvolvimento full stack e soluções digitais com impacto.
 
-Atualmente sou **Analista de Novos Negócios na Diversa Sustentabilidade**, onde atuo na interface com clientes, análise de demandas, viabilidade técnica e financeira, além de contribuir com iniciativas tecnológicas e projetos de P&D.
+Atualmente atuo como Analista de Novos Negócios na Diversa Sustentabilidade, onde analiso demandas, viabilidade técnica e financeira, e colaboro com iniciativas de inovação e projetos de P&D.
+
+Sou também fundadora da Tevora, uma empresa de tecnologia liderada por mulheres, que desenvolve soluções digitais para empresas de diversos setores. Nosso produto principal é um sistema de gestão ambiental, que une tecnologia e inteligência aplicada à sustentabilidade — mas nossa atuação vai além, entregando software sob medida para diferentes modelos de negócio.
+
+🧠 ❤️ Minha trajetória combina visão estratégica, propósito e capacidade técnica, somadas a uma escuta atenta, sensibilidade e olhar humano — qualidades que considero essenciais para criar soluções tecnológicas que realmente fazem sentido. Acredito que a tecnologia certa, no lugar certo, transforma empresas e pessoas.
 
 ---
 
@@ -50,7 +54,8 @@ Atualmente sou **Analista de Novos Negócios na Diversa Sustentabilidade**, onde
 
 ## 🧪 Projetos em destaque
 - **Nenem Hub** – sistema full stack de reservas de salas  
-- **Sistema de gestão de displays** – participação como back-end dev (Nest.js, GraphQL, Prisma)
+- **Sistema de gestão de displays** – participação como back-end dev (Nest.js, GraphQL, Prisma)  
+- **Plataforma de Gestão Ambiental** – solução em desenvolvimento voltada à gestão de licenças, condicionantes e relatórios ambientais, com geração automática de documentos e dashboards
 
 ---
 
