@@ -10,45 +10,51 @@ Sou também fundadora da Tevora, uma empresa de tecnologia liderada por mulheres
 
 ---
 
-## 💻 O que estou estudando e construindo
+📚 Formação e cursos
 
-### Formação em andamento
-**Full Stack JavaScript – React e Node.js (Alura) – 28h**
-- React: comece seu projeto full stack – 12h  
-- Node.js: crie uma API com Express – 8h  
-- React e Node.js: consumo de APIs – 8h  
+👩‍💻 Desenvolvimento Full Stack (JavaScript)
+Formação Full Stack JavaScript – 28h
+Projeto completo com React e Node.js, incluindo:
+Criação de APIs com Express
+Consumo de APIs no front-end
+Integração full stack
 
-**TypeScript – Boas práticas e uso avançado (Alura) – 30h**  
-- Parte 1: Evoluindo seu JavaScript – 10h  
-- Parte 2: Avançando na linguagem – 10h  
-- Parte 3: Técnicas e boas práticas – 10h  
+Cursos complementares – 56h
+APIs REST com Express, Sequelize e MongoDB
+ORM com Sequelize e SQLite
+JavaScript: objetos e programação orientada a objetos
+Paginação, filtros e tratamento de erros em APIs
 
-**Programação com JavaScript e Node.js – 56h**  
-- API REST com Express e MongoDB – 10h  
-- Buscas, filtros e paginação com Node.js – 10h  
-- ORM com Sequelize e SQLite – 20h  
-- JavaScript: objetos e POO – 16h  
+🧠 TypeScript
+Formação TypeScript – 30h
+Tipagem, interfaces, generics e boas práticas
+Evolução de código JavaScript com segurança e escalabilidade
 
-**Front-end & Web – 10h**  
-- HTTP: entendendo a web por baixo dos panos – 10h  
+⚙️ SQL e Banco de Dados
+Consultas com SQL (joins, views, transações) – 10h
+Banco de dados com PostgreSQL, SQLite e uso via ORM
 
-**Data Science – 10h**  
-- SQL: joins, views e transações – 10h  
+💡 Inovação & Gestão
+Formação em Gestão da Inovação – 39h
+Inovação aberta, social e ágil
+Teoria U, Design Thinking e Jobs to be Done
+Aplicação prática em projetos com foco em impacto
 
-**Inovação e Gestão – 18h**  
-- Inovação e Inovação Aberta – 12h  
-- Inovação Social e Empreendedorismo – 6h  
+🌐 Web & Fundamentos
+HTTP e estrutura da web – 10h
+Fundamentos de front-end e comunicação cliente-servidor
+
 
 ---
 
 ## ⚙️ Stacks favoritas  
-- **Node.js** + **Express**  
-- **React**  
-- **TypeScript**  
-- **Prisma ORM / Sequelize**  
-- **PostgreSQL / SQLite**  
-- **Styled Components**  
-- **NestJS** (em aprendizado)
+Node.js + Express  
+NestJS + GraphQL (code-first)  
+React  
+TypeScript  
+Prisma ORM / Sequelize  
+PostgreSQL / SQLite  
+Styled Components
 
 ---
 
