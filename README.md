@@ -10,38 +10,56 @@ Sou também fundadora da Tevora, uma empresa de tecnologia liderada por mulheres
 
 ---
 
-📚 Formação e cursos
+📚 **Formação e cursos**
 
-👩‍💻 Desenvolvimento Full Stack (JavaScript)
-Formação Full Stack JavaScript – 28h
+👩‍💻 **Desenvolvimento Full Stack (JavaScript) - 28h**
+
 Projeto completo com React e Node.js, incluindo:
+
 Criação de APIs com Express
+
 Consumo de APIs no front-end
+
 Integração full stack
 
-Cursos complementares – 56h
+**Cursos complementares – 56h**
+
 APIs REST com Express, Sequelize e MongoDB
+
 ORM com Sequelize e SQLite
+
 JavaScript: objetos e programação orientada a objetos
+
 Paginação, filtros e tratamento de erros em APIs
 
-🧠 TypeScript
+🧠 **TypeScript**
+
 Formação TypeScript – 30h
+
 Tipagem, interfaces, generics e boas práticas
+
 Evolução de código JavaScript com segurança e escalabilidade
 
-⚙️ SQL e Banco de Dados
+
+⚙️ **SQL e Banco de Dados**
+
 Consultas com SQL (joins, views, transações) – 10h
+
 Banco de dados com PostgreSQL, SQLite e uso via ORM
 
-💡 Inovação & Gestão
+💡 **Inovação & Gestão**
 Formação em Gestão da Inovação – 39h
+
 Inovação aberta, social e ágil
+
 Teoria U, Design Thinking e Jobs to be Done
+
 Aplicação prática em projetos com foco em impacto
 
-🌐 Web & Fundamentos
+
+🌐 **Web & Fundamentos**
 HTTP e estrutura da web – 10h
+
 Fundamentos de front-end e comunicação cliente-servidor
 
 
