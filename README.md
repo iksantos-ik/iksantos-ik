@@ -44,7 +44,18 @@ Styled Components
 ---
 
 ## 🧪 Projetos em destaque
-- **Nenem Hub** – sistema full stack de reservas de salas
+
+
+**Casas Acolhem - Plataforma de Apoio à Recuperação**
+Sistema full stack para conectar casas de acolhimento, voluntários e pessoas em processo de recuperação, com foco em dependentes químicos
+
+Backend: NestJS, Prisma ORM, PostgreSQL, Class-validator (validações customizadas incluindo CPF)
+
+Frontend: Next.js, Tailwind CSS
+
+Destaques: Sistema de matching entre casas de acolhimento e pessoas necessitadas, gestão de perfis segura, validações robustas de dados sensíveis
+
+Status: Em desenvolvimento - projeto com forte impacto social na área de saúde e recuperação
   
 **Sistema de Gestão de NEXTPLAY - Back-end Specialist e Analista de Requisitos**
 ERP para gestão de plataforma de displays, com módulos de usuários, perfis, estoque, fornecedores, clientes e financeiro
