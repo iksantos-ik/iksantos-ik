@@ -12,58 +12,25 @@ Sou também fundadora da Tevora, uma empresa de tecnologia liderada por mulheres
 
 📚 **Formação e cursos**
 
-👩‍💻 **Desenvolvimento Full Stack (JavaScript) - 28h**
+🔹 Fundação Técnica:
 
-Projeto completo com React e Node.js, incluindo:
+Pós-graduação em Engenharia de Software
 
-Criação de APIs com Express
++150h em cursos de tecnologia (Alura)
 
-Consumo de APIs no front-end
+Stack: TypeScript, Node.js, Nest.js, React, GraphQL, PostgreSQL
 
-Integração full stack
+Experiência prática no ciclo completo de desenvolvimento de sistemas ERP
 
-**Cursos complementares – 56h**
+🔹 Experiência Estratégica:
 
-APIs REST com Express, Sequelize e MongoDB
+5+ anos como Analista de Novos Negócios
 
-ORM com Sequelize e SQLite
+Especialista em gestão de projetos e sustentabilidade
 
-JavaScript: objetos e programação orientada a objetos
+Mestrado em Gestão de Recursos Hídricos (UFPE)
 
-Paginação, filtros e tratamento de erros em APIs
-
-🧠 **TypeScript**
-
-Formação TypeScript – 30h
-
-Tipagem, interfaces, generics e boas práticas
-
-Evolução de código JavaScript com segurança e escalabilidade
-
-
-⚙️ **SQL e Banco de Dados**
-
-Consultas com SQL (joins, views, transações) – 10h
-
-Banco de dados com PostgreSQL, SQLite e uso via ORM
-
-💡 **Inovação & Gestão**
-Formação em Gestão da Inovação – 39h
-
-Inovação aberta, social e ágil
-
-Teoria U, Design Thinking e Jobs to be Done
-
-Aplicação prática em projetos com foco em impacto
-
-
-🌐 **Web & Fundamentos**
-HTTP e estrutura da web – 10h
-
-Fundamentos de front-end e comunicação cliente-servidor
-
-
----
+Fundadora da Tevora - tech company liderada por mulheres
 
 ## ⚙️ Stacks favoritas  
 Node.js + Express  
@@ -77,9 +44,21 @@ Styled Components
 ---
 
 ## 🧪 Projetos em destaque
-- **Nenem Hub** – sistema full stack de reservas de salas  
-- **Sistema de gestão de displays** – participação como back-end dev (Nest.js, GraphQL, Prisma)  
-- **Plataforma de Gestão Ambiental** – solução em desenvolvimento voltada à gestão de licenças, condicionantes e relatórios ambientais, com geração automática de documentos e dashboards
+- **Nenem Hub** – sistema full stack de reservas de salas
+  
+**Sistema de Gestão de NEXTPLAY - Back-end Specialist e Analista de Requisitos**
+ERP para gestão de plataforma de displays, com módulos de usuários, perfis, estoque, fornecedores, clientes e financeiro
+Stack: Nest.js, GraphQL, Prisma
+Destaques: Desenvolvimento de APIs robustas, arquitetura escalável, integração com sistemas legados
+Status: 
+
+
+**Plataforma de Gestão Ambiental**
+
+Solução em desenvolvimento voltada à gestão de licenças, condicionantes e relatórios ambientais, com geração automática de documentos e dashboards
+Stack: React, Node.js, MongoDB
+Destaques: Geração automática de documentos, dashboard de indicadores, gestão de condicionantes e prazos
+Status: Em desenvolvimento - MVP previsto para Q1 2025
 
 ---
 
@@ -90,4 +69,3 @@ Styled Components
 
 ---
 
-✨ Sempre aprendendo, construindo com propósito e conectando tecnologia à sustentabilidade.
