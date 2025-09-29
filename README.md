@@ -1,12 +1,11 @@
-# Eu sou Ilana Santos, tenho 31 anos! :)
+# Eu sou Ilana Santos e estou em transição de carreira para Tecnologia! :)
 
-Sou Engenheira Ambiental, com mestrado em Gestão de Recursos Hídricos e sólida experiência em licenciamento, gestão de projetos e indicadores de sustentabilidade. Em 2024, iniciei minha transição de carreira para a área de tecnologia, com foco em desenvolvimento full stack e soluções digitais com impacto.
+Sou Engenheira Ambiental, com mestrado em Gestão de Recursos Hídricos e sólida experiência na área de Sustentabilidade e Inovação. 
+Carreira consolidada como Engenheira Ambiental e Mestre em Gestão de Recursos Hídricos, atualmente atuo como Analista de Novos Negócios na Diversa Sustentabilidade, onde analiso demandas, viabilidade técnica e financeira, e colaboro com iniciativas de inovação e projetos de Pesquisa, Desenvolvimento e Inovação.
 
-Atualmente atuo como Analista de Novos Negócios na Diversa Sustentabilidade, onde analiso demandas, viabilidade técnica e financeira, e colaboro com iniciativas de inovação e projetos de P&D.
+Tenho também experiência prática em desenvolvimento de software, desde o levantamento de requisitos com o cliente, elaboração de documentação robusta, com diagramas de caso de uso ao desenvolvimento, especialmente, em back-end com Nest.js, GraphQL e Prisma, participando ativamente de projetos que envolvem todo o ciclo de desenvolvimento de sistemas. Além disso, estou cursando uma Pós-graduação em Engenharia de Software, fortalecendo minha base técnica e ampliando meu repertório em arquitetura de sistemas, requisitos e boas práticas de desenvolvimento.
 
-Sou também fundadora da Tevora, uma empresa de tecnologia liderada por mulheres, que desenvolve soluções digitais para empresas de diversos setores. Nosso produto principal é um sistema de gestão ambiental, que une tecnologia e inteligência aplicada à sustentabilidade — mas nossa atuação vai além, entregando software sob medida para diferentes modelos de negócio.
-
-🧠 ❤️ Minha trajetória combina visão estratégica, propósito e capacidade técnica, somadas a uma escuta atenta, sensibilidade e olhar humano — qualidades que considero essenciais para criar soluções tecnológicas que realmente fazem sentido. Acredito que a tecnologia certa, no lugar certo, transforma empresas e pessoas.
+❤️ Acredito que a tecnologia deve ser construída com propósito, escuta atenta e sensibilidade — criando soluções que façam sentido tanto para as pessoas quanto para os negócios.🧠
 
 ---
 
@@ -58,17 +57,24 @@ Destaques: Sistema de matching entre casas de acolhimento e pessoas necessitadas
 Status: Em desenvolvimento - projeto com forte impacto social na área de saúde e recuperação
   
 **Sistema de Gestão de NEXTPLAY - Back-end Specialist e Analista de Requisitos**
+
 ERP para gestão de plataforma de displays, com módulos de usuários, perfis, estoque, fornecedores, clientes e financeiro
+
 Stack: Nest.js, GraphQL, Prisma
+
 Destaques: Desenvolvimento de APIs robustas, arquitetura escalável, integração com sistemas legados
-Status: 
+
+Status: 2 módulos completos entregues. 
 
 
 **Plataforma de Gestão Ambiental**
 
 Solução em desenvolvimento voltada à gestão de licenças, condicionantes e relatórios ambientais, com geração automática de documentos e dashboards
+
 Stack: React, Node.js, MongoDB
+
 Destaques: Geração automática de documentos, dashboard de indicadores, gestão de condicionantes e prazos
+
 Status: Em desenvolvimento - MVP previsto para Q1 2025
 
 ---
